@@ -50,6 +50,14 @@ python chatbot.py
 * User input handling
 * Rule-based conversational AI
 
+## Screenshots
+
+### Welcome Screen
+![Welcome Screen](screenshots/welcome_screen.png)
+
+### All commands
+![All commands](Screenshots\All_commands.png)
+
 ## Author
 
 Pranav Sagar
