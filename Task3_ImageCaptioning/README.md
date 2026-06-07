@@ -72,7 +72,7 @@ A cute dog is sitting on the grass.
 ## Screenshots
 
 ### Start Screen
-![Start Screen](screenshots/start_screen.png)
+![Start Screen](screenshots/Running_code_screen.png)
 
 ### Object Selection
 ![Object Selection](screenshots/object_selection.png)
